@@ -10,7 +10,7 @@ namespace SDPLong3A
             Console.WriteLine("This is the SDPProject3A");
 
             // Changes locally
-            Console.WriteLine("This is the change that I have made locally");
+            Console.WriteLine("This isn't the change that I have made locally");
             Console.ReadLine();
         }
     }
