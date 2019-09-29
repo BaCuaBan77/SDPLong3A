@@ -11,6 +11,7 @@ namespace SDPLong3A
 
             // Changes locally
             Console.WriteLine("This is the change that I have made locally");
+            Console.ReadLine();
         }
     }
 }
